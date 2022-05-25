@@ -1,0 +1,66 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 400px);
+  grid-template-rows: repeat(10, 170px);
+  gap: 20px;
+}
+.restro1{
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    border: 1px salmon solid;
+    padding: 5px;
+
+}
+.restaurant {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 150px;
+}
+.restroImg {
+  width: 100px;
+  height: 100px;
+}
+.info{
+    margin-left: 10px;
+
+}
+.info > h1 {
+  margin-top: -5px;
+  margin-bottom: -20px;
+  color: salmon;
+}
+.info > :nth-child(2) {
+  color: grey;
+  margin-bottom: -15px;
+}
+.info > :nth-child(3) {
+  margin-bottom: -15px;
+}
+.ratings{
+    margin-top: -10px;
+    margin-right: -25px;
+    width: 90px;
+}
+
+.ratings >p {
+    text-align: right;
+    margin-bottom: -13px;
+    font-size: 12px;
+    color: grey;
+
+}
+.payment_methods{
+    margin-right: -30px;
+    height: 20px;
+}
+.payment_methods>p{
+    margin-top: -20px;
+
+    margin-left: 10px;
+}
+.payment_methods>p>span{
+    font-weight: bold;
+
+}
+

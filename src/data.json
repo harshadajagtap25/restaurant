@@ -1,0 +1,317 @@
+[
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "A",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "B",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "C",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "D",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "E",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "F",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "G",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "H",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi":false
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "I",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "J",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "K",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "L",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "M",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "N",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "O",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "P",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "Q",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "R",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "S",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "U",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  },
+  {
+    "img": "https://dummyimage.com/sqrpop",
+    "name": "V",
+    "totalVotes": "100",
+    "reviews": "76",
+    "cost": "1000",
+    "rating":"4.3",
+    "reach_time":"30",
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "categories": ["continental", "indian", "italian", "asian", "chinese"]
+  }
+]
