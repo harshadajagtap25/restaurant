@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./Restaurant.module.css";
 function RestaurantDetails({ e }) {
-  console.log(e.payment_methods.card);
   return (
     <div className={styles.restro1}>
       <div className={styles.restaurant}>
